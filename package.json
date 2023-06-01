@@ -1,0 +1,14 @@
+{
+  "name": "six_mart_js_automation",
+  "version": "1.0.0",
+  "description": "cypress learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "purno",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.13.0"
+  }
+}
